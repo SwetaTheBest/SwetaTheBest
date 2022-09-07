@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Flutter projects.
 </br>
 
-- 💬 Ask me about Android,Java,Kotlin,Dart,Flutter,JavaScript
+- 💬 Ask me about Android, Java, Kotlin, Dart, Flutter, JavaScript
 </br>
 
 </br>
