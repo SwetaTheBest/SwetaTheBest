@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there, I am Sweta Jain 👋
 
 
 
 - 🔭 I’m currently working on Flutter projects.
+- 😄 Alias: Moon, Robot, Dora...
+- ⚡ Fun fact: I love coding 
+
 </br>
 
-- 💬 Ask me about Android, Java, Kotlin, Dart, Flutter, JavaScript
+- 💬 Ask me about Android, Java, Kotlin, Dart, Flutter, JavaScript, C, C++
 </br>
 
 </br>
