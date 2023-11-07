@@ -1,4 +1,4 @@
-### Hi there, I am Sweta Jain 👋
+# Hi there, I am Sweta Jain 👋
 
 
 
@@ -20,15 +20,23 @@
 </br>
 </br>
 
+# Indiana Stones
+![Indiana Stones](https://github.com/SwetaTheBest/indiana/assets/30392938/3f586654-3d65-4b6b-905f-71329d815514)
+
+### Play game [Click here](https://swetathebest.github.io/Indiana-Stones/)
+</br>
+</br>
+
+# GitHub App
 ![desktopApp](https://user-images.githubusercontent.com/30392938/205373958-4e38f742-9f17-4aab-911d-fe8c66360bff.gif)
 
 
 </br>
 </br>
 
-
+# Flong
 ![flong](https://user-images.githubusercontent.com/30392938/193613364-1dbb846b-90de-4157-b5b9-7c9a509f2fdc.gif)
-
+### Play game [Click here](https://swetathebest.github.io/flong/#/)
 
 
 
