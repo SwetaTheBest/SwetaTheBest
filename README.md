@@ -21,7 +21,7 @@
 </br>
 
 # Indiana Stones
-![Indiana Stones](https://github.com/SwetaTheBest/indiana/assets/30392938/3f586654-3d65-4b6b-905f-71329d815514)
+![Indiana Stones](https://github.com/SwetaTheBest/Indiana-Stones/assets/30392938/a3ad2ba5-d758-445f-954c-e3d0344cf960)
 
 ### Play game [Click here](https://swetathebest.github.io/Indiana-Stones/)
 </br>
