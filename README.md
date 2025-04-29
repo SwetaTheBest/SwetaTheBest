@@ -20,6 +20,19 @@
 </br>
 </br>
 
+
+# Space Race
+</br>
+
+<p align="center">
+  <img src="https://github.com/SwetaTheBest/space_race/blob/master/assets/images/space_race.gif" alt = "Space Race Game" width="100%" height="600px" />
+</p>
+
+### Play game [Click here](https://swetathebest.github.io/space_race_game/)
+
+</br>
+</br>
+
 # Indiana Stones
 ![Indiana Stones](https://github.com/SwetaTheBest/Indiana-Stones/assets/30392938/a3ad2ba5-d758-445f-954c-e3d0344cf960)
 
