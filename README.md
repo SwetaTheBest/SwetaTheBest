@@ -25,7 +25,7 @@
 </br>
 
 <p align="center">
-  <img src="https://github.com/SwetaTheBest/space_race/blob/master/assets/images/space_race.gif" alt = "Space Race Game" width="100%" height="600px" />
+  <img src="https://github.com/SwetaTheBest/space_race_game/blob/main/assets/assets/images/space_race.gif" alt = "Space Race Game" width="100%" height="600px" />
 </p>
 
 ### Play game [Click here](https://swetathebest.github.io/space_race_game/)
