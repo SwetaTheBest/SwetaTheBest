@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Flutter projects.
+- 🔭 I’m currently working on AI projects.
 - 😄 Alias: Moon, Robot, Dora...
 - ⚡ Fun fact: I love coding 
 
