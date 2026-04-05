@@ -8,7 +8,7 @@
 
 </br>
 
-- 💬 Ask me about Android, Java, Kotlin, Dart, Flutter, JavaScript, C, C++
+- 💬 Ask me about Android, Java, Kotlin, Dart, Flutter, Python, AI, RAG, MCP...
 </br>
 
 </br>
