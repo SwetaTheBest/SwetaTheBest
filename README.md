@@ -1,4 +1,3 @@
-<img width="400" height="225" alt="python_tic_tak_toe" src="https://github.com/user-attachments/assets/0b45a929-696d-471d-b98c-a37021970450" />
 # Hi there, I am Sweta Jain 👋
 
 
