@@ -1,3 +1,4 @@
+<img width="400" height="225" alt="python_tic_tak_toe" src="https://github.com/user-attachments/assets/0b45a929-696d-471d-b98c-a37021970450" />
 # Hi there, I am Sweta Jain 👋
 
 
@@ -44,7 +45,7 @@
 
 A simple console-based Tic-Tac-Toe game built using Python. This project demonstrates core programming concepts such as functions, dictionaries, input validation, game loops, recursion, and win-condition checking.
 
-<img width="800" height="450" alt="tic_tak_toe_pyhton" src="https://github.com/user-attachments/assets/0650950f-21be-4efc-a754-3a4891a5afc8" />
+<img width="400" height="225" alt="python_tic_tak_toe" src="https://github.com/user-attachments/assets/b2ec22f5-c3f5-4f88-9dc1-dd30d3e5f6d5" />
 
 </br>
 </br>
