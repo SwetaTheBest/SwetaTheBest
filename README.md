@@ -40,9 +40,11 @@
 </br>
 </br>
 
-# GitHub App
-![desktopApp](https://user-images.githubusercontent.com/30392938/205373958-4e38f742-9f17-4aab-911d-fe8c66360bff.gif)
+# 🎮 Tic-Tac-Toe in Python
 
+A simple console-based Tic-Tac-Toe game built using Python. This project demonstrates core programming concepts such as functions, dictionaries, input validation, game loops, recursion, and win-condition checking.
+
+<img width="800" height="450" alt="tic_tak_toe_pyhton" src="https://github.com/user-attachments/assets/0650950f-21be-4efc-a754-3a4891a5afc8" />
 
 </br>
 </br>
@@ -51,6 +53,10 @@
 ![flong](https://user-images.githubusercontent.com/30392938/193613364-1dbb846b-90de-4157-b5b9-7c9a509f2fdc.gif)
 ### Play game [Click here](https://swetathebest.github.io/flong/#/)
 
+</br>
+<.br>
+# GitHub App
+![desktopApp](https://user-images.githubusercontent.com/30392938/205373958-4e38f742-9f17-4aab-911d-fe8c66360bff.gif)
 
 
 
