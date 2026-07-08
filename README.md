@@ -49,12 +49,27 @@ A simple console-based Tic-Tac-Toe game built using Python. This project demonst
 </br>
 </br>
 
+
+# Santa-s-Snowman
+2d Platformer adventure game
+
+</br></br>
+
+## Watch demo [Click here](https://youtu.be/iWTmCMz0y18)
+</br></br>
+![screen1](https://github.com/SwetaTheBest/Santa-s-Snowman/assets/30392938/83fceebe-ef98-4c9f-a58f-e545c21b4f3f)
+</br>
+## Play game [Click here](https://swetathebest.github.io/Santa-s-Snowman/)
+
+</br></br>
+
 # Flong
 ![flong](https://user-images.githubusercontent.com/30392938/193613364-1dbb846b-90de-4157-b5b9-7c9a509f2fdc.gif)
 ### Play game [Click here](https://swetathebest.github.io/flong/#/)
 
 </br>
-<.br>
+</br>
+
 # GitHub App
 ![desktopApp](https://user-images.githubusercontent.com/30392938/205373958-4e38f742-9f17-4aab-911d-fe8c66360bff.gif)
 
